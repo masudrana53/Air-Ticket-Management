@@ -36,4 +36,4 @@ I'm a full stack developer...
 
 
 ## LogIn page
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_7.png)https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_7.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_7.png)
