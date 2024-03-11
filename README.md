@@ -6,13 +6,10 @@ Brief for this project
 
 
 - Language - JAVA
-- Technology - Netbeans
-- Databases - Mysql
 - Tools - Swing
+- Databases - Mysql
+- Technology - Netbeans
 - Servers - Tomcat
-
-
-
 
 
 
@@ -47,9 +44,9 @@ I'm a full stack developer...
 ## Booking Process
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_3.png)
 
-## Confirmat Tickets
+## Confirmation Tickets
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_8.png)
 
-## Cancellatin Ticket
+## Cancellation Tickets
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/masudrana53/Air-Ticket-Management/blob/main/Project%20SS/Screenshot_4.png)
 
