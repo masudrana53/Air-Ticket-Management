@@ -9,7 +9,7 @@ Brief for this project
 - Tools - Swing
 - Databases - Mysql
 - Technology - Netbeans
-- Servers - Tomcat
+- Server - Tomcat
 
 
 
