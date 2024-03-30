@@ -1,9 +1,7 @@
 # 🚀 Air Ticket Management
-
-Brief for this project
+An Airline Management System is a managerial software which targets to control all operations of an airline. Airlines provide transport services for their passengers. They carry or hire aircraft for this purpose. All operations of an airline company are controlled by their airline management system
 
 ## Tools, Technology, Databases and Servers
-
 
 - Language - JAVA
 - Tools - Swing
@@ -11,25 +9,8 @@ Brief for this project
 - Technology - Netbeans
 - Server - Tomcat
 
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## 🚀 About Me
 I'm a full stack developer...
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## LogIn page
